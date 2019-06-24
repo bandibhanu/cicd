@@ -15,7 +15,7 @@ namespace ForCICD.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "bhanu bandi";
+            ViewBag.Message = "bhanu bandi prakash";
             
 
             return View();
